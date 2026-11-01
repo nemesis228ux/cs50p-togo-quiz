@@ -1,4 +1,4 @@
-🚀 CS50P - Introduction to Programming with Python
+####🚀 CS50P - Introduction to Programming with Python
 
 Bienvenue sur mon dépôt personnel dédié à CS50’s Introduction to Programming with Python (CS50P) de l'Université Harvard ! 🎓
 
