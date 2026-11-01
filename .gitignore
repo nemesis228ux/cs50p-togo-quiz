@@ -1,0 +1,20 @@
+# IDE & Editor
+.vscode/
+.vscode/settings.json
+.devcontainer.json
+
+## compiled
+*.pytest_cache
+__pycache__
+
+# Images & médias
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.pdf
+*.svg
+*.webp
+*.bmp
+*.ico
+*.tiff

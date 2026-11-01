@@ -1,0 +1,58 @@
+from random import randint 
+
+
+def main():
+    level = get_level()
+    score = 0
+
+    for _ in range(10):
+        succeeded = True
+        x = generate_integer(level)
+        y = generate_integer(level)
+
+        for _ in range(3):
+            try:
+              answer = int(input(f"{x} + {y} = "))
+              if answer != (x + y):
+                  raise ValueError
+            except ValueError:
+                print("EEE")
+                succeeded = False
+                continue  
+            else:
+                score += 1
+                succeeded = True
+                break
+
+        if not succeeded:
+            print(f"{x} + {y} = {x + y}")
+
+    print(f"Score: {score}")
+
+
+
+def get_level():
+    while True:
+        try:
+            n = int(input("Level: "))
+            if n < 1 or n > 3:
+                raise ValueError
+        except ValueError:
+            pass
+        else:
+            return n
+
+
+def generate_integer(level):
+    if level == 1:
+        return randint(0, 9)
+    elif level == 2:
+        return randint(10, 99)
+    elif level == 3:
+        return randint(100, 999)
+    else:
+        raise ValueError()
+
+
+if __name__ == "__main__":
+    main()

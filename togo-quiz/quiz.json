@@ -1,0 +1,127 @@
+{
+  "Histoire": [
+    {
+      "question": "En quelle année le Togo a-t-il accédé à l'indépendance ?",
+      "options": ["1. 1958", "2. 1960", "3. 1970", "4. 1990"],
+      "reponse": "2"
+    },
+    {
+      "question": "Quel était le nom du premier président du Togo ?",
+      "options": ["1. Gnassingbé Eyadéma", "2. Sylvanus Olympio", "3. Nicolas Grunitzky", "4. Edem Kodjo"],
+      "reponse": "2"
+    },
+    {
+      "question": "Sous quel(s) protectorat(s) le Togo a-t-il été placé avant son indépendance ?",
+      "options": ["1. Britannique puis Français", "2. Allemand puis Français", "3. Belge puis Anglais", "4. Portugais uniquement"],
+      "reponse": "2"
+    },
+    {
+      "question": "Comment appelait-on le Togo durant la période coloniale allemande ?",
+      "options": ["1. Togoland", "2. Togo Allemand", "3. Deutsch-Togo", "4. République Togolaise"],
+      "reponse": "1"
+    },
+    {
+      "question": "Quelle date marque la fête nationale de l'indépendance du Togo ?",
+      "options": ["1. 27 avril 1960", "2. 13 janvier 1963", "3. 7 août 1960", "4. 25 décembre 1956"],
+      "reponse": "1"
+    }
+  ],
+  "Politique": [
+    {
+      "question": "Quel est le nom de l'actuel hymne national du Togo ?",
+      "options": ["1. Terre de nos aïeux", "2. L'Hymne de la Nation", "3. Salut à toi, pays de nos aïeux", "4. Liberté chérie"],
+      "reponse": "1"
+    },
+    {
+      "question": "En quelle année le Togo est-il passé d'un régime de parti unique au multipartisme ?",
+      "options": ["1. 1979", "2. 1991", "3. 2005", "4. 2015"],
+      "reponse": "2"
+    },
+    {
+      "question": "Quel organe assure le pouvoir législatif au Togo ?",
+      "options": ["1. L'Assemblée nationale", "2. Le Sénat", "3. Le Conseil constitutionnel", "4. La Haute Autorité de l'Audiovisuel"],
+      "reponse": "1"
+    },
+    {
+      "question": "Quelle institution veille à la régularité des élections et des référendums au Togo ?",
+      "options": ["1. La Cour Suprême", "2. La CENI (Commission Électorale Nationale Indépendante)", "3. Le Ministère de l'Intérieur", "4. L'ONU"],
+      "reponse": "2"
+    },
+    {
+      "question": "Comment appelle-t-on la devise officielle du Togo ?",
+      "options": ["1. Liberté - Égalité - Fraternité", "2. Travail - Liberté - Patrie", "3. Paix - Unité - Progrès", "4. Honneur - Patrie - Justice"],
+      "reponse": "2"
+    }
+  ],
+  "Geographie": [
+    {
+      "question": "Quelle est la capitale politique et économique du Togo ?",
+      "options": ["1. Kara", "2. Kpalimé", "3. Lomé", "4. Sokodé"],
+      "reponse": "3"
+    },
+    {
+      "question": "Quel océan borde le Togo au sud ?",
+      "options": ["1. Océan Indien", "2. Océan Pacifique", "3. Océan Atlantique", "4. Mer Méditerranée"],
+      "reponse": "3"
+    },
+    {
+      "question": "Quels sont les pays frontaliers du Togo ?",
+      "options": [
+        "1. Ghana, Bénin, Burkina Faso",
+        "2. Nigeria, Ghana, Niger",
+        "3. Mali, Burkina Faso, Bénin",
+        "4. Côte d'Ivoire, Ghana, Bénin"
+      ],
+      "reponse": "1"
+    },
+    {
+      "question": "Quel est le plus haut sommet du Togo ?",
+      "options": ["1. Mont Agou", "2. Mont Klouto", "3. Monts de Lamlama", "4. Mont Défalé"],
+      "reponse": "1"
+    },
+    {
+      "question": "Quelle ville togolaise est reconnue pour son artisanat et son climat frais dans les montagnes ?",
+      "options": ["1. Aného", "2. Kpalimé", "3. Atakpamé", "4. Dapaong"],
+      "reponse": "2"
+    }
+  ],
+  "Culture et Traditions": [
+    {
+      "question": "Quelle célèbre fête traditionnelle célèbre la moisson des ignames chez les Kabyè ?",
+      "options": ["1. Epé-Ekpe", "2. Evalà", "3. Sinkading", "4. Adossa"],
+      "reponse": "2"
+    },
+    {
+      "question": "De quelle communauté est originaire la cérémonie de prise de la pierre sacrée (Epé-Ekpe) ?",
+      "options": ["1. Les Kabyè", "2. Les Guin (Mina)", "3. Les Ewe", "4. Les Moba"],
+      "reponse": "2"
+    },
+    {
+      "question": "Quel plat traditionnel togolais à base de pâte de maïs ou de manioc est très populaire ?",
+      "options": ["1. Le Placali", "2. L'Amiwo", "3. Le Fufu", "4. La Bouillie"],
+      "reponse": "3"
+    },
+    {
+      "question": "Comment appelle-t-on le marché aux fétiches et objets rituels situé à Lomé ?",
+      "options": ["1. Le Grand Marché", "2. Le Marché d'Adidogomé", "3. Le Marché de Fetiches (Akodésséwa)", "4. Le Marché de Hedzranawoé"],
+      "reponse": "3"
+    }
+  ],
+  "Sport": [
+    {
+      "question": "Quel est le surnom de l'équipe nationale de football du Togo ?",
+      "options": ["1. Les Lions", "2. Les Éperviers", "3. Les Éléphants", "4. Les Panthères"],
+      "reponse": "2"
+    },
+    {
+      "question": "Quel footballeur togolais a remporté le ballon d'or africain en 2008 ?",
+      "options": ["1. Emmanuel Adebayor", "2. Kader Coulibaly", "3. Agassa Kossi", "4. Romao Alaixys"],
+      "reponse": "1"
+    },
+    {
+      "question": "En quelle année l'équipe de football du Togo a-t-elle participé pour la première fois à une Coupe du Monde de la FIFA ?",
+      "options": ["1. 1998", "2. 2002", "3. 2006", "4. 2010"],
+      "reponse": "3"
+    }
+  ]
+}
